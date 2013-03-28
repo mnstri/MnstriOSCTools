@@ -12,7 +12,7 @@
 #import "AnimataOSCPlugIn.h"
 
 #define	kQCPlugIn_Name				@"Animata Layer OSC"
-#define	kQCPlugIn_Description		@"Sends Animata compatible OSC messages. Controls the different layer parameters. MnstriOSCTools 1.0"
+#define	kQCPlugIn_Description		@"Sends Animata compatible OSC messages. Controls the different layer parameters. MnstriOSCTools 1.5"
 
 @implementation AnimataOSCPlugIn
 

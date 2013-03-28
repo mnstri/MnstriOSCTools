@@ -12,7 +12,7 @@
 #import "AnimataOSCJointPlugIn.h"
 
 #define	kQCPlugIn_Name				@"Animata Joint OSC"
-#define	kQCPlugIn_Description		@"Sends Animata compatible OSC messages. Controls the different joint parameters. MnstriOSCTools 1.0"
+#define	kQCPlugIn_Description		@"Sends Animata compatible OSC messages. Controls the different joint parameters. MnstriOSCTools 1.5"
 
 @implementation AnimataOSCJointPlugIn
 

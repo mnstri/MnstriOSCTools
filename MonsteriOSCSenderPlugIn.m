@@ -11,8 +11,8 @@
 
 #import "MonsteriOSCSenderPlugIn.h"
 
-#define	kQCPlugIn_Name				@"MŒnsteri OSC Sender"
-#define	kQCPlugIn_Description		@"OSC sender patch that allows you to dynamically change the IP and port numbers. Still missing the ability to send structures. MnstriOSCTools 1.0. http://mansteri.com"
+#define	kQCPlugIn_Name				@"Mnstri OSC Sender"
+#define	kQCPlugIn_Description		@"OSC sender patch that allows you to dynamically change the IP and port numbers. Still missing the ability to send structures. MnstriOSCTools 1.5. http://mansteri.com"
 
 @implementation MonsteriOSCSenderPlugIn
 
@@ -82,7 +82,7 @@
 				
 				[NSNumber numberWithUnsignedInteger:4], QCPortAttributeMaximumValueKey, 
 				
-				[NSArray arrayWithObjects:@"Float", @"Index", @"String", @"Boolean", /*@"Structure",*/nil], QCPortAttributeMenuItemsKey, 
+				[NSArray arrayWithObjects:@"Float", @"Index", @"String", @"Boolean",nil], QCPortAttributeMenuItemsKey, 
 				
 				nil];
 	
@@ -204,7 +204,7 @@
 	 Return NO in case of fatal failure (this will prevent rendering of the composition to start).
 	 */
 	
-	outport = [manager createNewOutputToAddress:@"127.0.0.1" atPort:1234 withLabel:@"qc OSC plugin"];
+	outport = [manager createNewOutputToAddress:@"127.0.0.1" atPort:12345 withLabel:@"qc OSC plugin"];
 	
 	return YES;
 }

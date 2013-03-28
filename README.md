@@ -27,8 +27,14 @@ Månsteri OSC Sender is an optional OSC sender to the one provided by Apple. It 
 
 ****************************************************************************************************
 
-Licensed under the Creative Commons Attribution-Noncommercial-Share Alike license:
-http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+Version 1.5
+- Weak linked the VV Frameworks
+- A little bit of cleaning up.
+
+****************************************************************************************************
+
+SOURCE CODE
+https://github.com/Mnstri/MnstriOSCTools
 
 Uses the VVOSC and VVBasics frameworks by mrRay
 http://code.google.com/p/vvopensource/

@@ -12,7 +12,7 @@
 #import "AnimataOSCBonePlugIn.h"
 
 #define	kQCPlugIn_Name				@"Animata Bone OSC"
-#define	kQCPlugIn_Description		@"Sends Animata compatible OSC messages. Controls the bone length. MnstriOSCTools 1.0"
+#define	kQCPlugIn_Description		@"Sends Animata compatible OSC messages. Controls the bone length. MnstriOSCTools 1.5"
 
 @implementation AnimataOSCBonePlugIn
 
