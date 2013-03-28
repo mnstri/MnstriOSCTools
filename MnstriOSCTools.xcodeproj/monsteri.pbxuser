@@ -1,0 +1,333 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* MnstriOSCTools */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* MnstriOSCTools */,
+		);
+		codeSenseManager = 23E90CA50A83C4F400A6A40A /* Code sense */;
+		executables = (
+			23E90CA60A83C53500A6A40A /* Quartz Composer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					344,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					805,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					416,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324806693;
+			PBXWorkspaceStateSaveDate = 324806693;
+		};
+		perUserProjectItems = {
+			CD4F49BC12EA3A2200449067 /* PlistBookmark */ = CD4F49BC12EA3A2200449067 /* PlistBookmark */;
+			CD4F4A6812EA3CE900449067 /* PBXTextBookmark */ = CD4F4A6812EA3CE900449067 /* PBXTextBookmark */;
+			CD4F4A8312EA3E2700449067 /* PBXTextBookmark */ = CD4F4A8312EA3E2700449067 /* PBXTextBookmark */;
+			CDCA4FE8135CA55A00395E94 /* PBXTextBookmark */ = CDCA4FE8135CA55A00395E94 /* PBXTextBookmark */;
+			CDCA4FE9135CA55A00395E94 /* PBXTextBookmark */ = CDCA4FE9135CA55A00395E94 /* PBXTextBookmark */;
+			CDCA4FEA135CA55A00395E94 /* PBXTextBookmark */ = CDCA4FEA135CA55A00395E94 /* PBXTextBookmark */;
+			CDCA4FEB135CA55A00395E94 /* PBXTextBookmark */ = CDCA4FEB135CA55A00395E94 /* PBXTextBookmark */;
+			CDCA4FEC135CA55A00395E94 /* PBXTextBookmark */ = CDCA4FEC135CA55A00395E94 /* PBXTextBookmark */;
+			CDCA4FED135CA55A00395E94 /* PBXTextBookmark */ = CDCA4FED135CA55A00395E94 /* PBXTextBookmark */;
+			CDDCBEA313010EE600512DC6 /* PBXTextBookmark */ = CDDCBEA313010EE600512DC6 /* PBXTextBookmark */;
+			CDF3CE8A1300B68C00CF3B54 /* PBXTextBookmark */ = CDF3CE8A1300B68C00CF3B54 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	16AA5C440A7EEE7300888E31 /* AnimataOSC_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 50}";
+		};
+	};
+	16BA95400A7EB2EB001E4983 /* AnimataOSCPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 650}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 938}";
+			sepNavVisRect = "{{0, 0}, {839, 550}}";
+		};
+	};
+	16BA95410A7EB2EB001E4983 /* AnimataOSCPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2112, 5395}}";
+			sepNavSelRange = "{3419, 0}";
+			sepNavVisRange = "{6059, 1178}";
+			sepNavWindowFrame = "{{282, 52}, {696, 807}}";
+		};
+	};
+	233E2C640A83C768005A62DF /* Build & Copy */ = {
+		activeExec = 0;
+	};
+	23E90CA40A83C4F400A6A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+		scmType = "";
+	};
+	23E90CA50A83C4F400A6A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E90CA60A83C53500A6A40A /* Quartz Composer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 23E90CA70A83C53500A6A40A /* Quartz Composer.app */;
+		libgmallocEnabled = 0;
+		name = "Quartz Composer";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23E90CA70A83C53500A6A40A /* Quartz Composer.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Quartz Composer.app";
+		path = "/Developer/Applications/Quartz Composer.app";
+		sourceTree = "<absolute>";
+	};
+	61524B1A1006D66B00962883 /* AnimataOSCBonePlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 442}}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRange = "{0, 796}";
+		};
+	};
+	61524B1B1006D66B00962883 /* AnimataOSCBonePlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 3406}}";
+			sepNavSelRange = "{488, 0}";
+			sepNavVisRange = "{0, 1085}";
+		};
+	};
+	61524B1F1006D6B800962883 /* AnimataOSCJointPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 464}}";
+			sepNavSelRange = "{129, 0}";
+			sepNavVisRange = "{0, 854}";
+		};
+	};
+	61524B201006D6B800962883 /* AnimataOSCJointPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 3900}}";
+			sepNavSelRange = "{3144, 0}";
+			sepNavVisRange = "{1908, 767}";
+		};
+	};
+	8D5B49AC048680CD000E48DA /* MnstriOSCTools */ = {
+		activeExec = 0;
+	};
+	8D5B49B7048680CD000E48DA /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{61, 24}, {696, 807}}";
+		};
+	};
+	CD4F498712EA36B400449067 /* MonsteriOSCSenderPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 481}}";
+			sepNavSelRange = "{133, 0}";
+			sepNavVisRange = "{3, 1022}";
+		};
+	};
+	CD4F498812EA36B400449067 /* MonsteriOSCSenderPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 3848}}";
+			sepNavSelRange = "{6207, 0}";
+			sepNavVisRange = "{5974, 968}";
+		};
+	};
+	CD4F49BC12EA3A2200449067 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/monsteri/Code/QC Plugins/AnimataOSC/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CD4F4A6812EA3CE900449067 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B1A1006D66B00962883 /* AnimataOSCBonePlugIn.h */;
+		name = "AnimataOSCBonePlugIn.h: 16";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 0;
+	};
+	CD4F4A8312EA3E2700449067 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16AA5C440A7EEE7300888E31 /* AnimataOSC_Prefix.pch */;
+		name = "AnimataOSC_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 50;
+		vrLoc = 0;
+	};
+	CDCA4FE8135CA55A00395E94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B1F1006D6B800962883 /* AnimataOSCJointPlugIn.h */;
+		name = "AnimataOSCJointPlugIn.h: 6";
+		rLen = 0;
+		rLoc = 129;
+		rType = 0;
+		vrLen = 854;
+		vrLoc = 0;
+	};
+	CDCA4FE9135CA55A00395E94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* AnimataOSCPlugIn.m */;
+		name = "AnimataOSCPlugIn.m: 116";
+		rLen = 0;
+		rLoc = 3419;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 6059;
+	};
+	CDCA4FEA135CA55A00395E94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* AnimataOSCPlugIn.h */;
+		name = "AnimataOSCPlugIn.h: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 0;
+	};
+	CDCA4FEB135CA55A00395E94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CD4F498712EA36B400449067 /* MonsteriOSCSenderPlugIn.h */;
+		name = "MonsteriOSCSenderPlugIn.h: 6";
+		rLen = 0;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 3;
+	};
+	CDCA4FEC135CA55A00395E94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CD4F498812EA36B400449067 /* MonsteriOSCSenderPlugIn.m */;
+		name = "MonsteriOSCSenderPlugIn.m: 232";
+		rLen = 0;
+		rLoc = 5973;
+		rType = 0;
+		vrLen = 1006;
+		vrLoc = 5841;
+	};
+	CDCA4FED135CA55A00395E94 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CD4F498812EA36B400449067 /* MonsteriOSCSenderPlugIn.m */;
+		name = "MonsteriOSCSenderPlugIn.m: 242";
+		rLen = 0;
+		rLoc = 6207;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 5974;
+	};
+	CDDCBEA313010EE600512DC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B201006D6B800962883 /* AnimataOSCJointPlugIn.m */;
+		name = "AnimataOSCJointPlugIn.m: 117";
+		rLen = 0;
+		rLoc = 3144;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 1908;
+	};
+	CDF3CE8A1300B68C00CF3B54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B1B1006D66B00962883 /* AnimataOSCBonePlugIn.m */;
+		name = "AnimataOSCBonePlugIn.m: 15";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 1085;
+		vrLoc = 0;
+	};
+}

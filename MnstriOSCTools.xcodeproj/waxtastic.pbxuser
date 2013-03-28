@@ -1,0 +1,883 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
+		activeTarget = 8D5B49AC048680CD000E48DA /* AnimataOSC */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* AnimataOSC */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 23E90CA50A83C4F400A6A40A /* Code sense */;
+		executables = (
+			23E90CA60A83C53500A6A40A /* Quartz Composer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					180,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					463,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					661,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292121735;
+			PBXWorkspaceStateSaveDate = 292121735;
+		};
+		perUserProjectItems = {
+			61199613100E4BF9004360AC /* PBXTextBookmark */ = 61199613100E4BF9004360AC /* PBXTextBookmark */;
+			61199614100E4BF9004360AC /* PBXTextBookmark */ = 61199614100E4BF9004360AC /* PBXTextBookmark */;
+			612FBF4C10DC157A009B664A /* PBXTextBookmark */ = 612FBF4C10DC157A009B664A /* PBXTextBookmark */;
+			612FBF4D10DC157A009B664A /* PlistBookmark */ = 612FBF4D10DC157A009B664A /* PlistBookmark */;
+			61445A8A10B4FF7100A20FD9 /* PBXTextBookmark */ = 61445A8A10B4FF7100A20FD9 /* PBXTextBookmark */;
+			61445A8B10B4FF7100A20FD9 /* PBXTextBookmark */ = 61445A8B10B4FF7100A20FD9 /* PBXTextBookmark */;
+			61445A8C10B4FF7100A20FD9 /* PBXTextBookmark */ = 61445A8C10B4FF7100A20FD9 /* PBXTextBookmark */;
+			61445A8D10B4FF7100A20FD9 /* PBXTextBookmark */ = 61445A8D10B4FF7100A20FD9 /* PBXTextBookmark */;
+			61445BC210B5072E00A20FD9 /* PBXTextBookmark */ = 61445BC210B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BC310B5072E00A20FD9 /* PBXTextBookmark */ = 61445BC310B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BC510B5072E00A20FD9 /* PBXTextBookmark */ = 61445BC510B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BC710B5072E00A20FD9 /* PBXTextBookmark */ = 61445BC710B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BC910B5072E00A20FD9 /* PBXTextBookmark */ = 61445BC910B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BCB10B5072E00A20FD9 /* PBXTextBookmark */ = 61445BCB10B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BCD10B5072E00A20FD9 /* PBXTextBookmark */ = 61445BCD10B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BCF10B5072E00A20FD9 /* PBXTextBookmark */ = 61445BCF10B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BD110B5072E00A20FD9 /* PBXTextBookmark */ = 61445BD110B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BD310B5072E00A20FD9 /* PBXTextBookmark */ = 61445BD310B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BD510B5072E00A20FD9 /* PBXTextBookmark */ = 61445BD510B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BD710B5072E00A20FD9 /* PBXTextBookmark */ = 61445BD710B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BD910B5072E00A20FD9 /* PBXTextBookmark */ = 61445BD910B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BDB10B5072E00A20FD9 /* PBXTextBookmark */ = 61445BDB10B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BDD10B5072E00A20FD9 /* PBXTextBookmark */ = 61445BDD10B5072E00A20FD9 /* PBXTextBookmark */;
+			61445BDF10B5072E00A20FD9 /* PBXTextBookmark */ = 61445BDF10B5072E00A20FD9 /* PBXTextBookmark */;
+			61445C3210B50D6B00A20FD9 /* PBXTextBookmark */ = 61445C3210B50D6B00A20FD9 /* PBXTextBookmark */;
+			61445C3310B50D6B00A20FD9 /* PBXTextBookmark */ = 61445C3310B50D6B00A20FD9 /* PBXTextBookmark */;
+			61445C3510B50D6B00A20FD9 /* PBXTextBookmark */ = 61445C3510B50D6B00A20FD9 /* PBXTextBookmark */;
+			61445C3710B50D6B00A20FD9 /* PBXTextBookmark */ = 61445C3710B50D6B00A20FD9 /* PBXTextBookmark */;
+			61445C3910B50D6B00A20FD9 /* PBXTextBookmark */ = 61445C3910B50D6B00A20FD9 /* PBXTextBookmark */;
+			616AEBEC1006FF8400103A96 /* PBXTextBookmark */ = 616AEBEC1006FF8400103A96 /* PBXTextBookmark */;
+			616AEC071007013000103A96 /* PBXTextBookmark */ = 616AEC071007013000103A96 /* PBXTextBookmark */;
+			616AEC2F1007054F00103A96 /* PBXTextBookmark */ = 616AEC2F1007054F00103A96 /* PBXTextBookmark */;
+			616AEC311007054F00103A96 /* PBXTextBookmark */ = 616AEC311007054F00103A96 /* PBXTextBookmark */;
+			616F5544116A741C005C48D2 /* PBXTextBookmark */ = 616F5544116A741C005C48D2 /* PBXTextBookmark */;
+			616F5545116A741C005C48D2 /* PBXTextBookmark */ = 616F5545116A741C005C48D2 /* PBXTextBookmark */;
+			616F5546116A741C005C48D2 /* PBXTextBookmark */ = 616F5546116A741C005C48D2 /* PBXTextBookmark */;
+			616F5547116A741C005C48D2 /* PBXTextBookmark */ = 616F5547116A741C005C48D2 /* PBXTextBookmark */;
+			616F5548116A741C005C48D2 /* PBXTextBookmark */ = 616F5548116A741C005C48D2 /* PBXTextBookmark */;
+			61D719831006F950008A1A9D /* PBXTextBookmark */ = 61D719831006F950008A1A9D /* PBXTextBookmark */;
+			61FB2129114AD4FC005B4F28 /* PlistBookmark */ = 61FB2129114AD4FC005B4F28 /* PlistBookmark */;
+			61FB212B114AD4FC005B4F28 /* PBXTextBookmark */ = 61FB212B114AD4FC005B4F28 /* PBXTextBookmark */;
+			61FB212C114AD4FC005B4F28 /* PBXTextBookmark */ = 61FB212C114AD4FC005B4F28 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	16AA5C440A7EEE7300888E31 /* AnimataOSC_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {879, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 50}";
+		};
+	};
+	16BA95400A7EB2EB001E4983 /* AnimataOSCPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 637}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{86, 1167}";
+			sepNavVisRect = "{{0, 0}, {839, 550}}";
+			sepNavWindowFrame = "{{76, -96}, {736, 701}}";
+		};
+	};
+	16BA95410A7EB2EB001E4983 /* AnimataOSCPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2112, 4693}}";
+			sepNavSelRange = "{9146, 0}";
+			sepNavVisRange = "{8481, 1124}";
+			sepNavWindowFrame = "{{15, 350}, {521, 523}}";
+		};
+	};
+	233E2C640A83C768005A62DF /* Build & Copy */ = {
+		activeExec = 0;
+	};
+	23E90CA40A83C4F400A6A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+		scmType = "";
+	};
+	23E90CA50A83C4F400A6A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E90CA60A83C53500A6A40A /* Quartz Composer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 23E90CA70A83C53500A6A40A /* Quartz Composer.app */;
+		libgmallocEnabled = 0;
+		name = "Quartz Composer";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23E90CA70A83C53500A6A40A /* Quartz Composer.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Quartz Composer.app";
+		path = "/Developer/Applications/Quartz Composer.app";
+		sourceTree = "<absolute>";
+	};
+	61199613100E4BF9004360AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61D7199C1006F950008A1A9D /* OSCBundle.h */;
+		name = "OSCBundle.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1281;
+		vrLoc = 226;
+	};
+	61199614100E4BF9004360AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 616AEC0F1007013000103A96 /* OSCAddressSpace.h */;
+		name = "OSCAddressSpace.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 855;
+		vrLoc = 467;
+	};
+	6119961D100E4BF9004360AC /* VVOSC.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVOSC.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/VVOSC.h";
+		sourceTree = "<absolute>";
+	};
+	612FBF4C10DC157A009B664A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16AA5C440A7EEE7300888E31 /* AnimataOSC_Prefix.pch */;
+		name = "AnimataOSC_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 50;
+		vrLoc = 0;
+	};
+	612FBF4D10DC157A009B664A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 61D71A0D1006FA7E008A1A9D /* VVOSC.framework-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	614459CB10B4F9CE00A20FD9 /* OSCPacket.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCPacket.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCPacket.h";
+		sourceTree = "<absolute>";
+	};
+	61445A8A10B4FF7100A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6119961D100E4BF9004360AC /* VVOSC.h */;
+		name = "VVOSC.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1578;
+		vrLoc = 3455;
+	};
+	61445A8B10B4FF7100A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61D719961006F950008A1A9D /* OSCZeroConfManager.h */;
+		name = "OSCZeroConfManager.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	61445A8C10B4FF7100A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61D719931006F950008A1A9D /* OSCZeroConfDomain.h */;
+		name = "OSCZeroConfDomain.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	61445A8D10B4FF7100A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 614459CB10B4F9CE00A20FD9 /* OSCPacket.h */;
+		name = "OSCPacket.h: 33";
+		rLen = 0;
+		rLoc = 811;
+		rType = 0;
+		vrLen = 496;
+		vrLoc = 0;
+	};
+	61445BC210B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 616AEC111007013000103A96 /* OSCInPort.h */;
+		name = "OSCInPort.h: 8";
+		rLen = 0;
+		rLoc = 74;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 2664;
+	};
+	61445BC310B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BC410B5072E00A20FD9 /* VVStopwatch.h */;
+		name = "VVStopwatch.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 454;
+		vrLoc = 95;
+	};
+	61445BC410B5072E00A20FD9 /* VVStopwatch.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVStopwatch.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVStopwatch.h";
+		sourceTree = "<absolute>";
+	};
+	61445BC510B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BC610B5072E00A20FD9 /* VVSpriteView.h */;
+		name = "VVSpriteView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 54;
+	};
+	61445BC610B5072E00A20FD9 /* VVSpriteView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVSpriteView.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVSpriteView.h";
+		sourceTree = "<absolute>";
+	};
+	61445BC710B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BC810B5072E00A20FD9 /* VVSpriteManager.h */;
+		name = "VVSpriteManager.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 524;
+	};
+	61445BC810B5072E00A20FD9 /* VVSpriteManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVSpriteManager.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVSpriteManager.h";
+		sourceTree = "<absolute>";
+	};
+	61445BC910B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BCA10B5072E00A20FD9 /* VVSpriteGLView.h */;
+		name = "VVSpriteGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 198;
+	};
+	61445BCA10B5072E00A20FD9 /* VVSpriteGLView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVSpriteGLView.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVSpriteGLView.h";
+		sourceTree = "<absolute>";
+	};
+	61445BCB10B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BCC10B5072E00A20FD9 /* VVSprite.h */;
+		name = "VVSprite.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1095;
+		vrLoc = 746;
+	};
+	61445BCC10B5072E00A20FD9 /* VVSprite.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVSprite.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVSprite.h";
+		sourceTree = "<absolute>";
+	};
+	61445BCD10B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BCE10B5072E00A20FD9 /* VVCURLDL.h */;
+		name = "VVCURLDL.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 0;
+	};
+	61445BCE10B5072E00A20FD9 /* VVCURLDL.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVCURLDL.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVCURLDL.h";
+		sourceTree = "<absolute>";
+	};
+	61445BCF10B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BD010B5072E00A20FD9 /* VVCrashReporterEmailField.h */;
+		name = "VVCrashReporterEmailField.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 194;
+		vrLoc = 0;
+	};
+	61445BD010B5072E00A20FD9 /* VVCrashReporterEmailField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVCrashReporterEmailField.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVCrashReporterEmailField.h";
+		sourceTree = "<absolute>";
+	};
+	61445BD110B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BD210B5072E00A20FD9 /* VVCrashReporterDescriptionField.h */;
+		name = "VVCrashReporterDescriptionField.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	61445BD210B5072E00A20FD9 /* VVCrashReporterDescriptionField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVCrashReporterDescriptionField.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVCrashReporterDescriptionField.h";
+		sourceTree = "<absolute>";
+	};
+	61445BD310B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BD410B5072E00A20FD9 /* VVCrashReporter.h */;
+		name = "VVCrashReporter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 0;
+	};
+	61445BD410B5072E00A20FD9 /* VVCrashReporter.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVCrashReporter.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVCrashReporter.h";
+		sourceTree = "<absolute>";
+	};
+	61445BD510B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BD610B5072E00A20FD9 /* VVBasics.h */;
+		name = "VVBasics.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	61445BD610B5072E00A20FD9 /* VVBasics.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVBasics.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVBasics.h";
+		sourceTree = "<absolute>";
+	};
+	61445BD710B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BD810B5072E00A20FD9 /* VVBasicMacros.h */;
+		name = "VVBasicMacros.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 684;
+		vrLoc = 0;
+	};
+	61445BD810B5072E00A20FD9 /* VVBasicMacros.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VVBasicMacros.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/VVBasicMacros.h";
+		sourceTree = "<absolute>";
+	};
+	61445BD910B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BDA10B5072E00A20FD9 /* ObjectHolder.h */;
+		name = "ObjectHolder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	61445BDA10B5072E00A20FD9 /* ObjectHolder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ObjectHolder.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/ObjectHolder.h";
+		sourceTree = "<absolute>";
+	};
+	61445BDB10B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BDC10B5072E00A20FD9 /* NamedMutLockArray.h */;
+		name = "NamedMutLockArray.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 212;
+		vrLoc = 0;
+	};
+	61445BDC10B5072E00A20FD9 /* NamedMutLockArray.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NamedMutLockArray.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/NamedMutLockArray.h";
+		sourceTree = "<absolute>";
+	};
+	61445BDD10B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BDE10B5072E00A20FD9 /* MutNRLockArray.h */;
+		name = "MutNRLockArray.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	61445BDE10B5072E00A20FD9 /* MutNRLockArray.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MutNRLockArray.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/MutNRLockArray.h";
+		sourceTree = "<absolute>";
+	};
+	61445BDF10B5072E00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BE010B5072E00A20FD9 /* MutLockDict.h */;
+		name = "MutLockDict.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 588;
+		vrLoc = 0;
+	};
+	61445BE010B5072E00A20FD9 /* MutLockDict.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MutLockDict.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/MutLockDict.h";
+		sourceTree = "<absolute>";
+	};
+	61445BE310B5072E00A20FD9 /* MutLockArray.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MutLockArray.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVBasics.framework/Headers/MutLockArray.h";
+		sourceTree = "<absolute>";
+	};
+	61445C3210B50D6B00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445BE310B5072E00A20FD9 /* MutLockArray.h */;
+		name = "MutLockArray.h: 5";
+		rLen = 0;
+		rLoc = 65;
+		rType = 0;
+		vrLen = 1867;
+		vrLoc = 0;
+	};
+	61445C3310B50D6B00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445C3410B50D6B00A20FD9 /* AnimataOSCJointPlugIn.h */;
+		name = "AnimataOSCJointPlugIn.h: 13";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 31;
+	};
+	61445C3410B50D6B00A20FD9 /* AnimataOSCJointPlugIn.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AnimataOSCJointPlugIn.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSCJoint/AnimataOSCJointPlugIn.h";
+		sourceTree = "<absolute>";
+	};
+	61445C3510B50D6B00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445C3610B50D6B00A20FD9 /* AnimataOSCJointPlugIn.m */;
+		name = "AnimataOSCJointPlugIn.m: 71";
+		rLen = 0;
+		rLoc = 2086;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	61445C3610B50D6B00A20FD9 /* AnimataOSCJointPlugIn.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AnimataOSCJointPlugIn.m;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSCJoint/AnimataOSCJointPlugIn.m";
+		sourceTree = "<absolute>";
+	};
+	61445C3710B50D6B00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445C3810B50D6B00A20FD9 /* AnimataOSCBonePlugIn.h */;
+		name = "AnimataOSCBonePlugIn.h: 10";
+		rLen = 0;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	61445C3810B50D6B00A20FD9 /* AnimataOSCBonePlugIn.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AnimataOSCBonePlugIn.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSCBone/AnimataOSCBonePlugIn.h";
+		sourceTree = "<absolute>";
+	};
+	61445C3910B50D6B00A20FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61445C3A10B50D6B00A20FD9 /* AnimataOSCBonePlugIn.m */;
+		name = "AnimataOSCBonePlugIn.m: 230";
+		rLen = 0;
+		rLoc = 6198;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 531;
+	};
+	61445C3A10B50D6B00A20FD9 /* AnimataOSCBonePlugIn.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AnimataOSCBonePlugIn.m;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSCBone/AnimataOSCBonePlugIn.m";
+		sourceTree = "<absolute>";
+	};
+	615247FC1006841C00962883 /* OSCValue.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCValue.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCValue.h";
+		sourceTree = "<absolute>";
+	};
+	61524B1A1006D66B00962883 /* AnimataOSCBonePlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 554}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRange = "{0, 793}";
+		};
+	};
+	61524B1B1006D66B00962883 /* AnimataOSCBonePlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 3276}}";
+			sepNavSelRange = "{6200, 0}";
+			sepNavVisRange = "{5223, 1355}";
+		};
+	};
+	61524B1F1006D6B800962883 /* AnimataOSCJointPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {705, 546}}";
+			sepNavSelRange = "{433, 48}";
+			sepNavVisRange = "{0, 851}";
+		};
+	};
+	61524B201006D6B800962883 /* AnimataOSCJointPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 3588}}";
+			sepNavSelRange = "{1335, 685}";
+			sepNavVisRange = "{981, 1204}";
+		};
+	};
+	616AEBEC1006FF8400103A96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 616AEBED1006FF8400103A96 /* OSCOutPort.h */;
+		name = "OSCOutPort.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1741;
+		vrLoc = 831;
+	};
+	616AEBED1006FF8400103A96 /* OSCOutPort.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCOutPort.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCOutPort.h";
+		sourceTree = "<absolute>";
+	};
+	616AEC071007013000103A96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 616AEC081007013000103A96 /* OSCNode.h */;
+		name = "OSCNode.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 526;
+		vrLoc = 0;
+	};
+	616AEC081007013000103A96 /* OSCNode.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCNode.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCNode.h";
+		sourceTree = "<absolute>";
+	};
+	616AEC0F1007013000103A96 /* OSCAddressSpace.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCAddressSpace.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCAddressSpace.h";
+		sourceTree = "<absolute>";
+	};
+	616AEC111007013000103A96 /* OSCInPort.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCInPort.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCInPort.h";
+		sourceTree = "<absolute>";
+	};
+	616AEC181007013000103A96 /* OSCManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCManager.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCManager.h";
+		sourceTree = "<absolute>";
+	};
+	616AEC2F1007054F00103A96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 616AEC301007054F00103A96 /* OSCMessage.h */;
+		name = "OSCMessage.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1185;
+		vrLoc = 0;
+	};
+	616AEC301007054F00103A96 /* OSCMessage.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCMessage.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCMessage.h";
+		sourceTree = "<absolute>";
+	};
+	616AEC311007054F00103A96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 616AEC181007013000103A96 /* OSCManager.h */;
+		name = "OSCManager.h: 109";
+		rLen = 0;
+		rLoc = 5368;
+		rType = 0;
+		vrLen = 1908;
+		vrLoc = 4274;
+	};
+	616F5544116A741C005C48D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* AnimataOSCPlugIn.m */;
+		name = "AnimataOSCPlugIn.m: 336";
+		rLen = 0;
+		rLoc = 9146;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 8481;
+	};
+	616F5545116A741C005C48D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* AnimataOSCPlugIn.h */;
+		name = "AnimataOSCPlugIn.h: 17";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 1167;
+		vrLoc = 86;
+	};
+	616F5546116A741C005C48D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B1F1006D6B800962883 /* AnimataOSCJointPlugIn.h */;
+		name = "AnimataOSCJointPlugIn.h: 23";
+		rLen = 48;
+		rLoc = 433;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+	616F5547116A741C005C48D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B201006D6B800962883 /* AnimataOSCJointPlugIn.m */;
+		name = "AnimataOSCJointPlugIn.m: 253";
+		rLen = 0;
+		rLoc = 6810;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 6194;
+	};
+	616F5548116A741C005C48D2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B201006D6B800962883 /* AnimataOSCJointPlugIn.m */;
+		name = "AnimataOSCJointPlugIn.m: 40";
+		rLen = 685;
+		rLoc = 1335;
+		rType = 0;
+		vrLen = 1204;
+		vrLoc = 981;
+	};
+	61D719831006F950008A1A9D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 615247FC1006841C00962883 /* OSCValue.h */;
+		name = "OSCValue.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 0;
+	};
+	61D719931006F950008A1A9D /* OSCZeroConfDomain.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCZeroConfDomain.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCZeroConfDomain.h";
+		sourceTree = "<absolute>";
+	};
+	61D719961006F950008A1A9D /* OSCZeroConfManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCZeroConfManager.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCZeroConfManager.h";
+		sourceTree = "<absolute>";
+	};
+	61D7199C1006F950008A1A9D /* OSCBundle.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSCBundle.h;
+		path = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/VVOSC.framework/Headers/OSCBundle.h";
+		sourceTree = "<absolute>";
+	};
+	61FB2129114AD4FC005B4F28 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/waxtastic/Code/QC Plugins/AnimataOSC/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	61FB212B114AD4FC005B4F28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B1A1006D66B00962883 /* AnimataOSCBonePlugIn.h */;
+		name = "AnimataOSCBonePlugIn.h: 19";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 0;
+	};
+	61FB212C114AD4FC005B4F28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 61524B1B1006D66B00962883 /* AnimataOSCBonePlugIn.m */;
+		name = "AnimataOSCBonePlugIn.m: 230";
+		rLen = 0;
+		rLoc = 6200;
+		rType = 0;
+		vrLen = 1355;
+		vrLoc = 5223;
+	};
+	8D5B49AC048680CD000E48DA /* AnimataOSC */ = {
+		activeExec = 0;
+	};
+}
